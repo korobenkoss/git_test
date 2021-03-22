@@ -1,0 +1,1 @@
+This is Ihor's first git project!
